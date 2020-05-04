@@ -1,0 +1,7 @@
+r2d game template todo list
+
+
+--- Future updates
+- Window resizing - It kinda works, the canvas scales with the window, but an aspect ratio scaling would be nice
+- Screen transitions
+- Particles - needs upgrades

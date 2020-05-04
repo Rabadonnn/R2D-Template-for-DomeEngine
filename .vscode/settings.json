@@ -1,0 +1,6 @@
+{
+    "editor.insertSpaces": true,
+    "code-runner.customCommand": ".\\dome",
+    "code-runner.showRunIconInEditorTitleMenu": false,
+    "code-runner.showRunCommandInEditorContextMenu": false
+}
